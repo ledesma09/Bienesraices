@@ -1,0 +1,10 @@
+{
+    "name": "test/bienesraices2",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "./clases"
+        }
+    }
+}
